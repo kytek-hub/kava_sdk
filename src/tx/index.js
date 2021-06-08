@@ -1,4 +1,4 @@
-const sig = require('@kava-labs/sig');
+const sig = require('@kava-labs/sig/dist/web');
 const _ = require('lodash');
 const axios = require('axios');
 const URL = require('url').URL;
